@@ -15,8 +15,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **3rd-year Computer Science Engineering student** strengthening my programming fundamentals while exploring web development, databases, and practical computer science concepts. I enjoy problem solving and building projects that turn what I learn into working code.
-
+I'm a **3rd-year Computer Science Engineering student** strengthening my programming fundamentals while exploring web development, databases, and practical computer science concepts. 
 <table>
   <tr>
     <td width="50%" valign="top">
